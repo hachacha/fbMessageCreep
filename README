@@ -1,0 +1,17 @@
+this will go through all messages in a facebook message thread. 
+1. a facebook
+2. to become a developer on facebook complete with appID and secret
+2.5 apparently facebook also requires you have a url to have your app on. so also a server with a domain name that facebook likes.
+3. a thread id that you want all the contents of
+
+
+i would like to have attachments also on here but that's a reported bug atm.
+sorry no selfies
+
+you will need to login through the test.php 
+which will redirect you to index.php
+and you can keep refreshing until you get to the end of your messages.
+you can make this a cronjob
+
+
+currently outputs to a CSV
